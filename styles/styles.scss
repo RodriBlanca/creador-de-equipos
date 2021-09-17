@@ -1,0 +1,25 @@
+/* VARIABLES */
+$royalBlue: #4169e1;
+$darkBlue: #102975;
+$navyBlue: #131928;
+$varsityMaize: #FFD41C;
+$pink: #ff1173;
+// Azul marino para el footer
+
+@media screen and (min-width: 260px) {
+    body {
+        background-color: $royalBlue;
+        margin: 0;
+        padding-top: 0;
+    }
+
+    /* HEADER */
+    #header {
+        background-color: $navyBlue;
+        color: $varsityMaize;
+
+        &-title {
+            margin: 0;
+        }
+    }
+}

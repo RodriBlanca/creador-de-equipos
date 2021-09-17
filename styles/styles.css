@@ -1,0 +1,17 @@
+/* VARIABLES */
+@media screen and (min-width: 260px) {
+  body {
+    background-color: #4169e1;
+    margin: 0;
+    padding-top: 0;
+  }
+  /* HEADER */
+  #header {
+    background-color: #131928;
+    color: #FFD41C;
+  }
+  #header-title {
+    margin: 0;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
